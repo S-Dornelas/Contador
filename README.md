@@ -11,6 +11,7 @@ internal class Program
 
     static void Menu()
     {
+       
         Console.Clear();
         Console.WriteLine("---------------------");
         Console.WriteLine("Quanto será a contagem?");

@@ -1,10 +1,11 @@
-# Contador
-Programa Contador no C#
+# Programa Contador/Cronômetro no C#
+
 
 namespace Stopwhatch;
-internal class Program
+
+public class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Menu();
     }
